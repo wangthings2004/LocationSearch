@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AddressSearch</string>
+    <string name="edt_hint">Enter keyword</string>
+</resources>
